@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageType>Dependency;TShockPlugin</PackageType>
+    <PackageId>Commandy.20.10.22.Test</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Janet Blackquill</Authors>
   </PropertyGroup>
 
   <ItemGroup>
